@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #333;
+    padding: opx;
+    margin: 0;
+}
+.navbar a{
+    color:red;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #555;
+}
